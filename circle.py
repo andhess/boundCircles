@@ -1,5 +1,4 @@
 import math
-import circleObject
 
 class Circle:
 
@@ -20,6 +19,8 @@ circleTest  = [ Circle( 2,  0, -1 ), Circle( 1,  2,  1), Circle( 0,  3,  1 ), Ci
 # A is an array of circleObjects
 
 def boundCircles( A ):
+	
+	# initalize the box
 	xmin = 100
 	xmax = -100
 
