@@ -1,5 +1,4 @@
 # About
-This is a simple program I was asked to write in an interview with Square.
 
 The function boundCircles takes in an array of circle objects and will return a circle that encapsulates all of them.
 
